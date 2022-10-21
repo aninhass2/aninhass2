@@ -1,0 +1,4 @@
+- ## sobre mim
+- 👋 oie ks, eu sou a @aninhass2
+- meu email de contato e foreverfriendsmonkey22@gmail.com
+- 🌱 estou interessado em aprender a programar
